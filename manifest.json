@@ -1,11 +1,11 @@
 {
-    "name": "sheets_backend",
-    "short_name": "sheets_backend",
+    "name": "MTB Parts Assistent",
+    "short_name": "MTB_PARTS",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A draft app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
